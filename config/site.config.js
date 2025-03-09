@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Thrift Tech Softwares",
+  title: "Software Deals Softwares",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   baseDirectory: process.env.BASE_DIRECTORY || '/Take All',
@@ -35,14 +35,14 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Made with ❤ by Thrift Tech.',
+    'Made with ❤ by Software Deals.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/Private', '/Demo/😎Another Private Folder Password 123'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: "thrifttech@gmail.com",
+  email: "softwaredeals@techph.pro",
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'Facebook',
-      link: 'https://www.facebook.com/profile.php?id=61572556612161',
+      link: 'https://www.facebook.com/softwaredeals.pro',
     },
   ],
 
